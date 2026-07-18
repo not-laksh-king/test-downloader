@@ -1,4 +1,4 @@
-pix2text
+pix2text[multilingual]
 pypdf2
 pillow
 pdf2image
