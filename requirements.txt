@@ -3,5 +3,3 @@ pypdf2
 pillow
 pdf2image
 streamlit
-transformers==4.44.0
-optimum==1.20.0
