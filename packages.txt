@@ -1,5 +1,6 @@
 poppler-utils
-pandoc
+tesseract-ocr
+tesseract-ocr-eng
 texlive-latex-base
 texlive-latex-extra
 texlive-fonts-recommended
